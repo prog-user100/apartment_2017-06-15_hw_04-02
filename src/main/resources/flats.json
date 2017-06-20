@@ -1,0 +1,47 @@
+{
+  "flats": [
+    {
+      "district": "district1",
+      "address": "address11",
+      "area": 80.0,
+      "roomNumber": 3,
+      "price": 10000000
+    },
+    {
+      "district": "district1",
+      "address": "address11",
+      "area": 40.0,
+      "roomNumber": 1,
+      "price": 4000000
+    },
+    {
+      "district": "district2",
+      "address": "address21",
+      "area": 120.0,
+      "roomNumber": 5,
+      "price": 50000000
+    },
+    {
+      "district": "district3",
+      "address": "address31",
+      "area": 50.2,
+      "roomNumber": 1,
+      "price": 5000000
+    },
+    {
+      "district": "district3",
+      "address": "address32",
+      "area": 70.0,
+      "roomNumber": 2,
+      "price": 5500000
+    },
+    {
+      "district": "district3",
+      "address": "address32",
+      "area": 150.0,
+      "roomNumber": 7,
+      "price": 150000000
+    }
+  ]
+}
+
